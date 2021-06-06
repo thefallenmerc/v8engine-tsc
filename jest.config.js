@@ -3,7 +3,7 @@
  * https://jestjs.io/docs/configuration
  */
 
-export default {
+module.exports = {
   clearMocks: true,
   moduleFileExtensions: ['js', 'jsx', 'ts', 'tsx'],
   roots: [
